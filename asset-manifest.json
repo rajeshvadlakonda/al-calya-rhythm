@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/al-calya-rhythm/static/css/main.073c9b0a.css",
+    "main.js": "/al-calya-rhythm/static/js/main.ab5b664e.js",
+    "static/js/787.2b2be852.chunk.js": "/al-calya-rhythm/static/js/787.2b2be852.chunk.js",
+    "static/media/logo.svg": "/al-calya-rhythm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/al-calya-rhythm/index.html",
+    "main.073c9b0a.css.map": "/al-calya-rhythm/static/css/main.073c9b0a.css.map",
+    "main.ab5b664e.js.map": "/al-calya-rhythm/static/js/main.ab5b664e.js.map",
+    "787.2b2be852.chunk.js.map": "/al-calya-rhythm/static/js/787.2b2be852.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ab5b664e.js"
+  ]
+}
